@@ -5,13 +5,13 @@ package janken;
 option go_package = "/proto";
 
 service UserService {
-  rpc GetUser (GetUserRequest) returns (GetUserResponse) {}
+  rpc GetUser(GetUserRequest) returns (GetUserResponse) {}
 }
 
 message User {
-  int64 id = 1;
-  string name = 2;
-  int64 age = 3;
+  int64  id      = 1;
+  string name    = 2;
+  int64  age     = 3;
   string comment = 4;
 }
 
