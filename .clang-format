@@ -1,0 +1,10 @@
+---
+Language: Proto
+BasedOnStyle: Google
+IndentWidth: 2
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 1
+ColumnLimit: 0
+---
