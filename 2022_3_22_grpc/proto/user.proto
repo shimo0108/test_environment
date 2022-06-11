@@ -13,6 +13,7 @@ message User {
   string name    = 2;
   int64  age     = 3;
   string comment = 4;
+  string greet   = 5;
 }
 
 message GetUserRequest {
