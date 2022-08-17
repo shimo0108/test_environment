@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	pb "test_environment/2022_3_22_grpc/proto"
+	pb "test_environment/grpc/proto"
 )
 
 type UserService struct {

@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
-	pb "test_environment/2022_3_22_grpc/proto"
-	"test_environment/2022_3_22_grpc/service"
+	pb "test_environment/grpc/proto"
+	"test_environment/grpc/service"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
