@@ -1,5 +1,4 @@
-// You can edit this code!
-// Click here and start typing.
+// v1
 package main
 
 import (
